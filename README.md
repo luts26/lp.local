@@ -1,0 +1,2 @@
+# lp.local
+landingPage
