@@ -1,2 +1,2 @@
-# lp.local
+
 landingPage
